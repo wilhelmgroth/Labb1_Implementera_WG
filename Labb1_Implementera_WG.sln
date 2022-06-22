@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb1_Implementera_WG", "Labb1_Implementera_WG\Labb1_Implementera_WG.csproj", "{B62A90B3-AD49-4C3D-816D-5150F47D4A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B62A90B3-AD49-4C3D-816D-5150F47D4A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62A90B3-AD49-4C3D-816D-5150F47D4A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62A90B3-AD49-4C3D-816D-5150F47D4A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62A90B3-AD49-4C3D-816D-5150F47D4A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEBFE636-C310-4C1C-AA1C-9514B7C88BC9}
+	EndGlobalSection
+EndGlobal
